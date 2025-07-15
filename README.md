@@ -40,7 +40,7 @@ My chosen API for this project is **pokeapi.co**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+[![Video Title](http://img.youtube.com/vi/160QomZE0PI/0.jpg)](https://www.youtube.com/watch?v=160QomZE0PI)
 
 GIF created with **Youtube**
 
